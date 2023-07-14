@@ -1,0 +1,116 @@
+element.style {
+}
+img[data-sizes=auto] {
+    display: block;
+    width: 100%;
+}
+.feature-row__image {
+    display: block;
+    margin: 0 auto;
+}
+.lazyloaded {
+    opacity: 1;
+    transition: opacity .4s ease;
+}
+img, iframe {
+    max-width: 100%;
+}
+img {
+    border: 0 none;
+}
+*, input, :before, :after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+body, textarea, p, li {
+    font-family: Fieldwork,sans-serif;
+    font-weight: 400;
+}
+body {
+    font-weight: 400;
+}
+@media only screen and (min-width: 769px)
+body, input, textarea, button, select {
+    font-size: 16px;
+}
+body, input, textarea, button, select {
+    font-size: 13.6px;
+    font-family: Futura,sans-serif;
+    letter-spacing: .025em;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeSpeed;
+}
+html, body {
+    background-color: #fff;
+    color: #212529;
+}
+:root {
+    --oke-widget-spaceAbove: 20px;
+    --oke-widget-spaceBelow: 20px;
+    --oke-starRating-spaceAbove: 0;
+    --oke-starRating-spaceBelow: 0;
+    --oke-button-backgroundColor: #e2d0fd;
+    --oke-button-backgroundColorHover: #c7b7df;
+    --oke-button-backgroundColorActive: #e2d0fd;
+    --oke-button-textColor: #2c3e50;
+    --oke-button-textColorHover: #272d45;
+    --oke-button-textColorActive: #fff;
+    --oke-button-borderColor: #dbdde4;
+    --oke-button-borderColorHover: #dbdde4;
+    --oke-button-borderColorActive: #e2d0fd;
+    --oke-button-borderRadius: 4px;
+    --oke-button-borderWidth: 1px;
+    --oke-border-color: #e5e5eb;
+    --oke-border-width: 1px;
+    --oke-text-primaryColor: #2c3e50;
+    --oke-text-secondaryColor: #676986;
+    --oke-text-small: 12px;
+    --oke-text-regular: 14px;
+    --oke-text-large: 20px;
+    --oke-avatar-size: 48px;
+    --oke-avatar-backgroundColor: #e5e5eb;
+    --oke-avatar-placeholderTextColor: #2c3e50;
+    --oke-highlightColor: #e2d0fd;
+    --oke-shadingColor: #f7f7f8;
+    --oke-productImageSize: 48px;
+    --oke-attributeBar-shadingColor: #9a9db1;
+    --oke-attributeBar-borderColor: undefined;
+    --oke-attributeBar-backgroundColor: #d3d4dd;
+    --oke-attributeBar-markerColor: #e2d0fd;
+    --oke-filter-backgroundColor: #fff;
+    --oke-filter-backgroundColorActive: #676986;
+    --oke-filter-borderColor: #dbdde4;
+    --oke-filter-borderColorActive: #676986;
+    --oke-filter-textColor: #2c3e50;
+    --oke-filter-textColorActive: #2c3e50;
+    --oke-filter-borderRadius: 100px;
+    --oke-filter-searchHighlightColor: #b2f9e9;
+    --oke-mediaGrid-chevronColor: #676986;
+    --oke-stars-foregroundColor: #e2d0fd;
+    --oke-stars-backgroundColor: #e5e5e5;
+    --oke-stars-borderWidth: 0;
+}
+:root {
+    --color-pri: #f0e0ff;
+    --color-sec: #c991ff;
+    --color-alt: #ffffff;
+}
+:root {
+    --swiper-navigation-size: 44px;
+}
+:root {
+    --swiper-theme-color: #007aff;
+}
+*, input, :before, :after {
+    box-sizing: border-box;
+}
+
+*, input, :before, :after {
+    box-sizing: border-box;
+}
